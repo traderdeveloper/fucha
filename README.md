@@ -62,13 +62,13 @@ download the wallet-client, tx and daemon file
 
 ```bash
 
-wget https://github.com/traderdeveloper/fucha/releases/download/1001/fucha1001-linux.zip
+wget https://github.com/traderdeveloper/fucha/releases/download/1002/fucha1002-linux.zip
 ```
 fillout the password of your username and press enter
 
 
 ```bash
-unzip fucha1001-linux.zip
+unzip fucha1002-linux.zip
 ```
 ```bash
 sudo chmod +x funchad
