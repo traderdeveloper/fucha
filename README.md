@@ -109,8 +109,8 @@ masternode=1
 masternodeprivkey=MASTERNODE-GENKEY-from-debugconsole
 
 addnode=95.179.210.251
-addnode=144.202.11.182
-addnode=158.247.200.79
+addnode=155.138.145.134
+addnode=70.34.211.78
 #----
 ```
 save this file by pressing CONTROL+O and press enter
@@ -119,9 +119,9 @@ close this file by pressing CONTROL+X
 # start the vps server with
 
 ```bash
-funchad
+fuchad
 ```
-if everything is fine: you get an output: funcha server starting
+if everything is fine: you get an output: fucha server starting
 
 
 
@@ -146,8 +146,8 @@ getmasternodeoutputs
 
 <table>
 <tr><td>example for masternode in masternode.conf file </td></tr>
-<tr><td>mn1 IP_OF_THE_SERVER:40624 MASTERNODE_GENKEY TX_HASH TX_OUTPUTS</td></tr>
-<tr><td>mn1 123.45.67.89:40624 652FzuBw4v6ijn8fPw8843oh1NmSWBDpSLR1nipyCxkU73auGBx 92b73f399eb6ca01fdea7e49b52194fa8d0774fea05f70268e8e78f286c2948a 0</td></tr>
+<tr><td>mn1 IP_OF_THE_SERVER:18145 MASTERNODE_GENKEY TX_HASH TX_OUTPUTS</td></tr>
+<tr><td>mn1 123.45.67.89:18145 652FzuBw4v6ijn8fPw8843oh1NmSWBDpSLR1nipyCxkU73auGBx 92b73f399eb6ca01fdea7e49b52194fa8d0774fea05f70268e8e78f286c2948a 0</td></tr>
 </table>
 
 save file, reopen wallet and start in debug console !
