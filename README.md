@@ -62,34 +62,34 @@ download the wallet-client, tx and daemon file
 
 ```bash
 
-wget https://github.com/traderdeveloper/fucha/releases/download/1002/fucha1002-linux.zip
+wget https://github.com/traderdeveloper/fucha/releases/download/2000/fucha2000-linux-daemon.zip
 ```
 fillout the password of your username and press enter
 
 
 ```bash
-unzip fucha1002-linux.zip
+unzip fucha2000-linux-daemon.zip
 ```
 ```bash
-sudo chmod +x funchad
+sudo chmod +x fuchad
 ```
 ```bash
-sudo chmod +x funcha-tx
+sudo chmod +x fucha-tx
 ```
 ```bash
-sudo chmod +x funcha-cli
+sudo chmod +x fucha-cli
 ```
 ```bash
-sudo mv funchad funcha-cli funcha-tx /usr/bin/
+sudo mv fuchad fucha-cli fucha-tx /usr/bin/
 ```
 ```bash
 sudo apt-get install libdb4.8-dev libdb4.8++-dev -y
 ```
 ```bash
-mkdir $HOME/.funcha
+mkdir $HOME/.fucha
 ```
 ```bash
-nano $HOME/.funcha/funcha.conf
+nano $HOME/.fucha/fucha.conf
 ```
 
 copy this with your details in th conf. file (choose only another good rpcuser and a very good password, you need your masternode genkey from wallet and the ip address of the vps server)
