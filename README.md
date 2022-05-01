@@ -33,7 +33,7 @@ getnewaddress "masternode1"
 <tr><td>FNaF43HxGicz1pCoE2ezM7hMWYSQmRLFZ3</td></tr>
 </table>
 
-send exact 1000 Coins to the address (confirmation need: 20) 
+send exact 10000 Coins to the address (confirmation need: 20) 
 
 
 # Installation: for Security use SSH on your vps!!
