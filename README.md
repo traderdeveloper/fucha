@@ -4,7 +4,7 @@
 
 Requirements: 	
 
-1.) for 1 Masternode you need a wallet with 10000 FUCHA Coins (1 additional coin you need for fees!)
+1.) for 1 Masternode you need a wallet with collateral FUCHA Coins (1 additional coin you need for fees!)
 2.) VPS for example on vultr or any other vps services or Pecunia  
 
 Feel free to use our reflinks to signup: 
